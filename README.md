@@ -9,7 +9,7 @@ Desenvolvedor backend com foco em C# e .NET, interessado em construir sistemas c
 ### 🧳 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,postgres,mysql,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,mssql,postgres,mysql,postman,git,github" />
 </p>
 
 ### 🤝 Contato
